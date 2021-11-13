@@ -1,0 +1,12 @@
+venv/
+media/
+__pycache__/
+.git/
+.vscode/
+
+*.mo
+*.pyc
+*.sqlite3
+
+.DS_Store
+*.code-workspace
